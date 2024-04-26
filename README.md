@@ -1,4 +1,4 @@
 # Project-Boost
-3D Game, Built with GameDev.tv's 3D Games' Tutorial. 
+3D Game, Built with GameDev.tv's 'Complete C# Unity Game Developer 3D Online Course'. 
 
 URL: https://hedonisticopportunist.itch.io/project-boost
